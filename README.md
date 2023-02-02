@@ -1,5 +1,5 @@
 
-Blog website made by follow Net Ninja's React Playlist https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+Blog website made by following Net Ninja's React Playlist https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
 
 # Getting Started with Create React App
 
