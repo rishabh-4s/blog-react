@@ -1,3 +1,6 @@
+
+Blog website made by follow Net Ninja's React Playlist https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## UI Images
+### Home Page
+![image](https://user-images.githubusercontent.com/79386635/216428609-22dba30e-ac88-400f-b252-a881a4315c8f.png)
+### Add Blog Page
+![image](https://user-images.githubusercontent.com/79386635/216428729-cedebbd9-bb03-4365-9056-3156aa79778b.png)
+
+
